@@ -1,0 +1,1 @@
+Este é o caminho para o site do [chale hotel](https://raphaelabarros.github.io/chale-hotel/).
